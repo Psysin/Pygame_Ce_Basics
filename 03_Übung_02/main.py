@@ -1,4 +1,4 @@
-### Übung_01 Kreis Bewegung ###
+### Übung_02 Kreis User-Eingaben ###
 import pygame
 
 """----- Setup -----"""
